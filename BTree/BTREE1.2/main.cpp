@@ -18,7 +18,5 @@ int main()
 
  
                  //printing the output
-
-                   cout<<"__________________________________________________"<<endl;
                    cout<<"height of the tree is "<<b->height()<<endl;    
 }
