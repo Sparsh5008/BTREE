@@ -6,6 +6,7 @@ int main()
 {
               BTREE* b = new BTREE;
 
+              // testing the software
               int val;
               while(cin>>val)
               {
@@ -16,7 +17,7 @@ int main()
               }
 
  
-
+                 //printing the output
 
                    cout<<"__________________________________________________"<<endl;
                    cout<<"height of the tree is "<<b->height()<<endl;    

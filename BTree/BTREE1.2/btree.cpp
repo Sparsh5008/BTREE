@@ -7,6 +7,7 @@ using namespace std;
 
 BTREE::BTREE()
 {
+              //root is created
 	      root = new node;
 	      root->isLeaf = true;
 	      root->numKeys = 0;
